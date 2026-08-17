@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **ssrj25/ssrj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -133,7 +134,7 @@ Worked on Azure DevOps and CI/CD workflows, integrating Jest and Go support into
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN) • [LeetCode](YOUR_LEETCODE) • [Portfolio](YOUR_PORTFOLIO)
+[LinkedIn](https://www.linkedin.com/in/shreya-singh-8217b1240/) • [LeetCode](https://leetcode.com/u/furrious77/) 
 
 ⭐ Feel free to explore my repositories!
 
