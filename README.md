@@ -101,14 +101,6 @@ A deep-learning based image classification project for identifying recyclable ma
 
 ---
 
-### 📚 BookAI
-
-**React.js • JavaScript • Three.js**
-
-An interactive frontend application focused on AI-powered book discovery and modern web experiences.
-
----
-
 ## 💼 Experience
 
 ### Software Engineer — Dassault Systèmes
