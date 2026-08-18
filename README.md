@@ -16,26 +16,19 @@ I enjoy building scalable applications and exploring **Generative AI, RAG, AI Ag
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-C++ • Python • JavaScript • TypeScript • Java • SQL
+**Languages:**  C++ • Python • JavaScript • TypeScript • Java • SQL
 
-**Frontend:**  
-React.js • Next.js • HTML • CSS • Bootstrap
+**Frontend:**  React.js • Next.js • HTML • CSS • Bootstrap
 
-**Backend:**  
-Node.js • Express.js • Spring Boot • REST APIs • JWT
+**Backend:**  Node.js • Express.js • Spring Boot • REST APIs • JWT
 
-**Databases:**  
-MongoDB • PostgreSQL • SQL
+**Databases:**  MongoDB • PostgreSQL • SQL
 
-**AI / ML:**  
-TensorFlow • Scikit-learn • Pandas • NumPy • NLP
+**AI / ML:**  TensorFlow • Scikit-learn • Pandas • NumPy • NLP
 
-**Generative AI:**  
-LangChain • LangGraph • RAG • LLMs • AI Agents • Prompt Engineering
+**Generative AI:**  LangChain • LangGraph • RAG • LLMs • AI Agents • Prompt Engineering
 
-**Tools:**  
-Git • GitHub • Azure DevOps • CI/CD • VS Code
+**Tools:**  Git • GitHub • Azure DevOps • CI/CD • VS Code
 
 ---
 
