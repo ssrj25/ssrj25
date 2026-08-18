@@ -1,21 +1,3 @@
-
-
-<!--
-## Hi there 👋
-**ssrj25/ssrj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi, I'm Shreya Singh 👋
 
 ### Software Engineer | Full-Stack Developer | AI/ML & GenAI
@@ -24,35 +6,35 @@ Software Engineer at **Dassault Systèmes** with experience in software developm
 
 I enjoy building scalable applications and exploring **Generative AI, RAG, AI Agents, and LLM-based systems**.
 
-💼 Software Engineer @ Dassault Systèmes
-🔹 Former Software Engineer Intern @ Microsoft
-🎓 B.Tech — NIT Rourkela
-💻 700+ DSA Problems Solved
+💼 Software Engineer @ Dassault Systèmes  
+🔹 Former Software Engineer Intern @ Microsoft  
+🎓 B.Tech — NIT Rourkela  
+💻 700+ DSA Problems Solved  
 🤖 Building AI Agents & RAG Applications
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**
+**Languages:**  
 C++ • Python • JavaScript • TypeScript • Java • SQL
 
-**Frontend:**
+**Frontend:**  
 React.js • Next.js • HTML • CSS • Bootstrap
 
-**Backend:**
+**Backend:**  
 Node.js • Express.js • Spring Boot • REST APIs • JWT
 
-**Databases:**
+**Databases:**  
 MongoDB • PostgreSQL • SQL
 
-**AI / ML:**
+**AI / ML:**  
 TensorFlow • Scikit-learn • Pandas • NumPy • NLP
 
-**Generative AI:**
+**Generative AI:**  
 LangChain • LangGraph • RAG • LLMs • AI Agents • Prompt Engineering
 
-**Tools:**
+**Tools:**  
 Git • GitHub • Azure DevOps • CI/CD • VS Code
 
 ---
@@ -129,4 +111,3 @@ Worked on Azure DevOps and CI/CD workflows, integrating Jest and Go support into
 [LinkedIn](https://www.linkedin.com/in/shreya-singh-8217b1240/) • [LeetCode](https://leetcode.com/u/furrious77/) 
 
 ⭐ Feel free to explore my repositories!
-
